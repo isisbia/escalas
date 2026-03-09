@@ -1,0 +1,17 @@
+{
+  "name": "Escala Extração",
+  "short_name": "Escala",
+  "description": "Sistema de Gestão de Escalas e Ausências",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1570/1570887.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
